@@ -1,0 +1,21 @@
+#body {
+    background-color: Aquamarine;
+}
+
+#body2 {
+    background-color: goldenrod;
+}
+
+#mainH1 {
+    text-align: center;
+}
+
+#navBut {
+    cursor: pointer;
+
+    position : center
+}
+
+#otherh1 {
+    color: purple;
+}
